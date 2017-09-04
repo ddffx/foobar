@@ -49,3 +49,4 @@ Your code will run inside a Python 2.7.6 sandbox.
 
 Standard libraries are supported except for bz2, crypt, fcntl, mmap, pwd, pyexpat, select, signal, termios, thread, time, unicodedata, zipimport, zlib.
 ```
+https://gist.github.com/ddffx/8fc686556689c1bfec3f44a848bd505f
